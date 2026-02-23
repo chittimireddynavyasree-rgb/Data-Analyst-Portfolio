@@ -1,4 +1,4 @@
-# 👩‍💻 Navya Chittimireddy – Data Analyst Portfolio
+# 👩‍💻 Navyasree Chittimireddy – Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio!  
 This repository showcases my end-to-end data analytics projects using Python, SQL, PostgreSQL, and Power BI.
@@ -47,10 +47,10 @@ Analyzed customer shopping behavior data to uncover patterns in purchasing, disc
 
 ---
 
-## 📬 Contact
+## 📬 Contact : 6305626649
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: (Add your LinkedIn profile link here)
+📧 Email: chittimireddynavyasree@gmail.com 
+🔗 LinkedIn: (https://linkedin.com/in/chittimireddy-navyasree-449b1a368)
 
 ---
 
