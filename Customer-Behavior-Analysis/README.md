@@ -64,6 +64,14 @@ Connected Python script to PostgreSQL and loaded the cleaned DataFrame into the 
 
 ---
 
+## 📊 Key Business Insights
+
+- Customers aged 25–35 contribute the highest overall revenue.
+- Female customers show slightly higher average purchase value.
+- Subscription users purchase more frequently than non-subscribers.
+- Discount campaigns increase transaction volume but reduce average margin.
+- Mid-priced product categories drive maximum sales.
+
 ## Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn)  
