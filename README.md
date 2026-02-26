@@ -1,18 +1,18 @@
-# 👩‍💻 Navyasree Chittimireddy – Data Analyst Portfolio
+# Navyasree Chittimireddy – Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio!  
 This repository showcases my end-to-end data analytics projects using Python, SQL, PostgreSQL, and Power BI.
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-Aspiring Data Analyst with hands-on experience in Python, SQL, PostgreSQL, and Power BI. Passionate about transforming raw data into meaningful business insights.
+Entry-Level Data Analyst with hands-on experience in Python, SQL, PostgreSQL, and Power BI. Passionate about transforming raw data into meaningful business insights.
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🛍️ Customer Shopping Behavior Analysis
+### Customer Shopping Behavior Analysis
 End-to-end data analysis project using Python, SQL (PostgreSQL), and Power BI.
 
 **Key Highlights:**
@@ -26,7 +26,7 @@ End-to-end data analysis project using Python, SQL (PostgreSQL), and Power BI.
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning & Preprocessing (Pandas)
 - Exploratory Data Analysis (EDA)
@@ -36,18 +36,18 @@ End-to-end data analysis project using Python, SQL (PostgreSQL), and Power BI.
 - Business Insight Generation
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, Matplotlib, Seaborn)
 - SQL (PostgreSQL)
 - Power BI
 - Git & GitHub
 
-## 📬 Connect With Me
+## Connect With Me
 
 - 📧 Email: chittimireddynavyasree@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/chittimireddy-navyasree-449b1a368  
 - 💻 GitHub: https://github.com/chittimireddynavyasree-rgb
 
 ---
-⭐ Thank you for visiting my portfolio. I’m open to Data Analyst opportunities and collaborations!
+Thank you for visiting my portfolio. Actively seeking entry-level Data Analyst opportunities where I can leverage SQL, Python, and Power BI to drive business insights.
