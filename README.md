@@ -5,53 +5,49 @@ This repository showcases my end-to-end data analytics projects using Python, SQ
 
 ---
 
-## 🚀 Projects Included
+## 👩‍💻 About Me
 
-### 📊 1. Customer Behavior Analysis
+Aspiring Data Analyst with hands-on experience in Python, SQL, PostgreSQL, and Power BI. Passionate about transforming raw data into meaningful business insights.
+---
 
-*Tools Used:*  
-Python (Pandas, Matplotlib, Seaborn), SQL, Power BI
+## 📂 Featured Projects
 
-*Project Overview:*  
-Analyzed customer shopping behavior data to uncover patterns in purchasing, discount usage, product ratings, and spending trends.
+### 🛍️ Customer Shopping Behavior Analysis
+End-to-end data analysis project using Python, SQL (PostgreSQL), and Power BI.
 
-*Key Highlights:*
-- Data Cleaning and Preprocessing using Python
+**Key Highlights:**
+- Cleaned and transformed 3,900+ customer transaction records
+- Performed SQL-based revenue and subscription analysis
+- Evaluated discount impact on sales performance
+- Built interactive Power BI dashboard
+- Generated actionable business insights
+
+🔗 [View Full Project](./Customer-Behavior-Analysis)
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- Data Cleaning & Preprocessing (Pandas)
 - Exploratory Data Analysis (EDA)
-- SQL queries for business insights
-- Interactive Power BI dashboard
-- Identified top products, customer segments, and revenue drivers
-
-📂 Folder: Customer-Behavior-Analysis
-
+- SQL Query Writing & Business Analysis (PostgreSQL)
+- Data Visualization (Matplotlib, Seaborn)
+- Dashboard Development (Power BI)
+- Business Insight Generation
 ---
 
-## 🛠 Skills Demonstrated
+## 🛠️ Tools & Technologies
 
-- Data Cleaning & Transformation
-- Exploratory Data Analysis
-- SQL Query Writing
-- Data Visualization
-- Dashboard Development
-- Business Insights Generation
-
----
-
-## 📈 Tools & Technologies
-
-- Python
-- SQL
-- PostgreSQL
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL (PostgreSQL)
 - Power BI
-- GitHub
+- Git & GitHub
+
+## 📬 Connect With Me
+
+- 📧 Email: chittimireddynavyasree@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/chittimireddy-navyasree-449b1a368  
+- 💻 GitHub: https://github.com/chittimireddynavyasree-rgb
 
 ---
-
-## 📬 Contact : 6305626649
-
-📧 Email: chittimireddynavyasree@gmail.com 
-🔗 LinkedIn: (https://linkedin.com/in/chittimireddy-navyasree-449b1a368)
-
----
-
-⭐ Thank you for visiting my portfolio!
+⭐ Thank you for visiting my portfolio. I’m open to Data Analyst opportunities and collaborations!
